@@ -1,0 +1,40 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: 
+Age/Sex:  / 
+IPD No: 
+UHID No: 
+Bed No: 
+Department: 
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] 
+Doctor: Dr. Akshay
+Date/Time: 
+Content: 
+Medications Prescribed:
+  • ALTIMA 40 ( possibly Pantoprazole 40 mg )
+  • DNTK2 ( possibly Pantoprazole 40 mg )
+  • LAWMAX ( possibly not clear )
+  • N10 ( possibly not clear )
+  • OLANZ ( possibly Olanzapine )
+  • TH BMS O ( possibly not clear )
+
+
+[Note 2] 
+Doctor: Dr. Nakesh
+Date/Time: 
+Content: 
+Medications Prescribed:
+  • CHLORZ 25 ( possibly Chlorthalidone 25 mg )
+  • CLOPID ( possibly Clopidogrel )
+
+PII DETECTED
+----------------------------------------------------------------------
+DOCTOR_NAMES: Dr. Akshay, Dr. Nakesh

@@ -1,0 +1,9 @@
+=== PII REDACTION SUMMARY ===
+
+[DOCTOR_NAME] Dr. H.M (Confidence: high)
+[DOCTOR_NAME] Dr. Rakesh (Confidence: high)
+[DOCTOR_NAME] Dr. A. Mahapatra (Confidence: high)
+[DOCTOR_NAME] Dr. S. Dash (Confidence: high)
+[DATE] 11/4/25 (Confidence: high)
+[DATE] 15.4.25 (Confidence: high)
+[DATE] 16.4.25 (Confidence: high)

@@ -1,0 +1,67 @@
+{
+  "raw_text": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL (Faculty of Medical Sciences) SIKSHA 'O' ANUSANDHAN (DEEMED TO BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PROGRESS REPORT Patient Name: ....................Santosh...........Pradhan IPD No: ............8186-Q 93893........... UHID No: ............acuro 8110195........... Dept: ............W-1........... Bed No: ............10........... Age: ............36y........... Sex: ............M........... PLAN OF CARE Restraints Y N Investigation Advised Type Reason CBC CBC LFT LFT S.electrolytes S.electrolytes LFT LFT s.amylase /s.urase s.amylase /s.urase GGT GGT T3/T4, TSH T3/T4, TSH PPBS /FBS PPBS /FBS → NCCT Brain → NCCT Brain UDS UDS Diet Consistency Normal Soft Liquid Tube Feeds Fasting Type: Normal Diabetic Low salt Other Preventive Care References Resident Signature Full Name: DR. PRUTHIA Mobile No: Date Time Full Name: DR. HIRANMAYA MOHANTA Mobile No: Date Time Consultant Signature 11/9/24 3.30 PM DATE &TIME PROGRESS NOTES TREATMENT/ADVICE 11/9/25 → 12.00 PM D1 MENTAL & BEHAVIOURAL DISORDER DUE TO USE OF ALCOHOL. DEPENDENCE SYNDROME CURRENTLY TAKING THE SUBSTANCE (F10.24 + F13.2) Rx Inj THIAMINE (200) 100 ml NS TID Inj LOPEZ (1amp) slow IV TDS as - q sos Inj PAN (40) 1 vial IV BD TAL. TAXIM-O (200) 1 tab BD",
+  "cleaned_text": "INSTITUTE 0F MEDICAL SCIENCES  SUM H0SPITAL (Faculty of Medical Sciences) SIKSHA 0 ANUSANDHAN (DEEMED T0 BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PR0GRESS REP0RT Patient Name: ....................Santosh...........Pradhan IPD No: ............8186-Q 93893........... UHID No: ............acuro 8110195........... Dept: ............W-1........... Bed No: ............10........... Age: ............36y........... Sex: ............M........... PLAN 0F CARE Restraints Y N Investigation Advised Type Reason CBC CBC LFT LFT S.electrolytes S.electrolytes LFT LFT s.amylase /s.urase s.amylase /s.urase GGT GGT T3/T4, TSH T3/T4, TSH PPBS /FBS PPBS /FBS  NCCT Brain  NCCT Brain UDS UDS Diet Consistency Normal Soft Liquid Tube Feeds Fasting Type: Normal Diabetic Low salt 0ther Preventive Care References Resident Signature Full Name: DR. PRUTHIA Mobile No: Date Time Full Name: DR. HIRANMAYA M0HANTA Mobile No: Date Time Consultant Signature 11/9/24 3.30 PM DATE TIME PR0GRESS N0TES TREATMENT/ADVICE 11/9/25  12.00 PM D1 MENTAL  BEHAVI0URAL DIS0RDER DUE T0 USE 0F ALC0H0L. DEPENDENCE SYNDR0ME CURRENTLY TAKING THE SUBSTANCE (F10.24 + F13.2) Rx Inj THIAMINE (200) 100 ml NS TID Inj L0PEZ (1amp) slow IV TDS as - q sos Inj PAN (40) 1 vial IV BD TAL. TAXIM-0 (200) 1 tab BD",
+  "patient_info": {
+    "name": "Santosh Pradhan",
+    "age": "36",
+    "sex": "M",
+    "ipd_no": "8186-Q 93893",
+    "uhid_no": "acuro 8110195",
+    "bed_no": "10",
+    "department": "W-1",
+    "admission_date": "11/9/25"
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "Dr. Pruthia",
+      "date_time": "11/9/24 3:30 PM",
+      "note_type": "Progress Note",
+      "content": "PLAN OF CARE",
+      "medications": [
+        "Inj THIAMINE (200) 100 ml NS TID",
+        "Inj LOPEZ (1amp) slow IV TDS as - q sos",
+        "Inj PAN (40) 1 vial IV BD",
+        "TAL. TAXIM-O (200) 1 tab BD"
+      ],
+      "instructions": []
+    },
+    {
+      "doctor_name": "Dr. Hiranmaya Mohanta",
+      "date_time": "11/9/25 12:00 PM",
+      "note_type": "Progress Note",
+      "content": "MENTAL & BEHAVIOURAL DISORDER DUE TO USE OF ALCOHOL. DEPENDENCE SYNDROME CURRENTLY TAKING THE SUBSTANCE (F10.24 + F13.2)",
+      "medications": [
+        "Inj THIAMINE (200) 100 ml NS TID",
+        "Inj LOPEZ (1amp) slow IV TDS as - q sos",
+        "Inj PAN (40) 1 vial IV BD",
+        "TAL. TAXIM-O (200) 1 tab BD"
+      ],
+      "instructions": []
+    }
+  ],
+  "all_pii": {
+    "patient_names": [
+      "Santosh Pradhan"
+    ],
+    "doctor_names": [
+      "Dr. Pruthia",
+      "Dr. Hiranmaya Mohanta"
+    ],
+    "dates": [
+      "11/9/24",
+      "11/9/25"
+    ],
+    "id_numbers": [
+      "8186-Q 93893",
+      "acuro 8110195"
+    ],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_30_preprocessed.jpg",
+    "processed_at": "2025-12-10T10:52:58.219682",
+    "total_notes": 2,
+    "total_pii_categories": 6
+  }
+}

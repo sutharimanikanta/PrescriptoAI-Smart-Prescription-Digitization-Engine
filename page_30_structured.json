@@ -1,0 +1,55 @@
+{
+  "raw_text": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL (Faculty of Medical Sciences) SIKSHA 'O' ANUSANDHAN (DEEMED TO BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PROGRESS REPORT Patient Name: Sandesh Pradhan Age: 36* Sex: M IPD No: 9862 - 9 92693 UHID No: acdro 4105295 Dept: W-1 Bed No: 10 PLAN OF CARE Restraints Y N Type Reason Investigation Advised CBC LFT LFT s.electrolytes LFT ecG s.amylase /s.urase GGT T3/T4 TSH PPBS /fBS NCCT Brain UDS Diet Consistenty Normal Soft Liquid Tube Feeds Fasting Type: Normal Diabetic Low salt Other Preventive Care References Resident Signature Full Name: DR. PRATEEK Mobile No: Date: Time: Consultant Signature Full Name: DR. HIRANMAYA MOHANTA Mobile No: Date: Time:  → (IWA-M → mat .  11/9/25 3: 30 PM DATE &TIME PROGRESS NOTES TREATMENT/ADVICE patient received from OPD to ward-1 m date → 11/9/25 : time → 12:00 PM D1 Mental & Behavioural Disorder due to use of Alcohol, Dependence syndrome currently taking the substance (F10.24 + F 19.2)  Vitols BP → PR → RR →  Inj THIAMINE (200) 100 mu NS TID Inj LOPEZ (1amp) slow IV TDS sos Inj PAN (40) 1 vial 2U OD B/BD TAB TAXIM- O(200) 1TAB BD",
+  "cleaned_text": "INSTITUTE 0F MEDICAL SCIENCES  SUM H0SPITAL (Faculty of Medical Sciences) SIKSHA 0 ANUSANDHAN (DEEMED T0 BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PR0GRESS REP0RT Patient Name: Sandesh Pradhan Age: 36 Sex: M IPD No: 9862 - 9 92693 UHID No: acdro 4105295 Dept: W-1 Bed No: 10 PLAN 0F CARE Restraints Y N Type Reason Investigation Advised CBC LFT LFT s.electrolytes LFT ecG s.amylase /s.urase GGT T3/T4 TSH PPBS /fBS NCCT Brain UDS Diet Consistenty Normal Soft Liquid Tube Feeds Fasting Type: Normal Diabetic Low salt 0ther Preventive Care References Resident Signature Full Name: DR. PRATEEK Mobile No: Date: Time: Consultant Signature Full Name: DR. HIRANMAYA M0HANTA Mobile No: Date: Time:  (IWA-M  mat . 11/9/25 3: 30 PM DATE TIME PR0GRESS N0TES TREATMENT/ADVICE patient received from 0PD to ward-1 m date  11/9/25 : time  12:00 PM D1 Mental  Behavioural Disorder due to use of Alcohol, Dependence syndrome currently taking the substance (F10.24 + F 19.2) Vitols BP  PR  RR  Inj THIAMINE (200) 100 mu NS TID Inj L0PEZ (1amp) slow IV TDS sos Inj PAN (40) 1 vial 2U 0D B/BD TAB TAXIM- 0(200) 1TAB BD",
+  "patient_info": {
+    "name": "Sandesh Pradhan",
+    "age": "36",
+    "sex": "M",
+    "ipd_no": "9862 - 9 92693",
+    "uhid_no": "acdro 4105295",
+    "bed_no": "10",
+    "department": "W-1",
+    "admission_date": "11/9/25"
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "Dr. Hiranmaya Mohanta",
+      "date_time": "11/9/25",
+      "note_type": "Progress Note",
+      "content": "patient received from OPD to ward-1 m date → 11/9/25 : time → 12:00 PM D1 Mental & Behavioural Disorder due to use of Alcohol, Dependence syndrome currently taking the substance (F10.24 + F 19.2)",
+      "medications": [
+        "Inj THIAMINE (200) 100 mu NS TID",
+        "Inj LOPEZ (1amp) slow IV TDS sos",
+        "Inj PAN (40) 1 vial 2U OD B/BD",
+        "TAB TAXIM- O(200) 1TAB BD"
+      ],
+      "instructions": []
+    }
+  ],
+  "all_pii": {
+    "patient_names": [
+      "Sandesh Pradhan"
+    ],
+    "doctor_names": [
+      "Dr. Hiranmaya Mohanta",
+      "Dr. Prateek"
+    ],
+    "dates": [
+      "11/9/25"
+    ],
+    "id_numbers": [
+      "9862 - 9 92693",
+      "acdro 4105295"
+    ],
+    "phone_numbers": [
+      "Mobile No: (not clear, possibly associated with Dr. Prateek or Dr. Hiranmaya Mohanta)"
+    ],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_30.jpg",
+    "processed_at": "2025-12-10T10:55:20.224453",
+    "total_notes": 1,
+    "total_pii_categories": 6
+  }
+}

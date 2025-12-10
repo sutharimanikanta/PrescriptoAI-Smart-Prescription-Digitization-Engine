@@ -1,0 +1,88 @@
+{
+  "raw_text": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL (Faculty of Medical Sciences) SIKSHA 'O' ANUSANDHAN (DEEMED TO BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PROGRESS REPORT Patient Name: Santosh Peetham Age: 26 Sex: M IPD No.: 4236927-33 UHID No.: 202504116195 Bed No.: 10 DATE & TIME PROGRESS NOTES TREATMENT/ADVICE SIGNATURE OF DOCTOR 16/04/25 Clinical Psychology Reported On Observation - slurred gait Murring of speech Irrelevant talk All 4 aroused but not sustained over a period of time Irritable towards family member Agitation On Internels - c/o - Burning of urine Loose motion Body Ache Heaviness of Head INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL (Faculty of Medical Sciences) SIKSHA 'O' ANUSANDHAN (DEEMED TO BE UNIVERSITY) K-8, Kalinga Nagar, Bhubaneswar PROGRESS REPORT Patient Name: Santosh Peetham Age: 26 Sex: M IPD No.: 2236927533 UHID No.: 202504116195 Bed No.: 10 DATE & TIME PROGRESS NOTES TREATMENT/ADVICE SIGNATURE OF DOCTOR 16/04/25 8PM MENTAL AND BEHAVIORAL DISORDER DUE TO USE OF ALCOHOL ,DEPENDENCE & SUBSTANCE THE SUBSTANCE Vitals BP - 130/80 mmHg PR - 88 / min RR - 16/ min T - 97.0 F Rx: 1) Inj THIAMINE (C200) in 100 ml NS TID 2) Inj LOPEZ (1amp) slow IV BD and SOS 3) Inj ARP(40) 1 vial IV BD B/BF 4) Cap BEFILAC 4P 1 cap BD 5) Cap DEXORANGE 1 cap OBD morning 6) Syp HERBALS Plus (500ml) BD 7) THROMBOPHOBE. Gel 1ft HA 8) NICOGUM CHEWLET (2mg) BD",
+  "pii_entities": [
+    {
+      "type": "PATIENT_NAME",
+      "value": "Santosh Peetham",
+      "confidence": "high"
+    },
+    {
+      "type": "AGE",
+      "value": "26",
+      "confidence": "high"
+    },
+    {
+      "type": "SEX",
+      "value": "M",
+      "confidence": "high"
+    },
+    {
+      "type": "IPD_NO",
+      "value": "4236927-33",
+      "confidence": "high"
+    },
+    {
+      "type": "UHID_NO",
+      "value": "202504116195",
+      "confidence": "high"
+    },
+    {
+      "type": "BED_NO",
+      "value": "10",
+      "confidence": "high"
+    },
+    {
+      "type": "DATE",
+      "value": "16/04/25",
+      "confidence": "high"
+    },
+    {
+      "type": "TIME",
+      "value": "8PM",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "",
+      "confidence": "low"
+    },
+    {
+      "type": "DEPARTMENT",
+      "value": "Clinical Psychology",
+      "confidence": "high"
+    }
+  ],
+  "structured_data": {
+    "patient_info": {
+      "name": "Santosh Peetham",
+      "age": "26",
+      "sex": "M",
+      "ipd_no": "4236927-33",
+      "uhid_no": "202504116195",
+      "bed_no": "10"
+    },
+    "hospital_info": {
+      "name": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+      "department": "Clinical Psychology"
+    },
+    "dates": [
+      "16/04/25"
+    ],
+    "medications": [
+      "Inj THIAMINE (C200) in 100 ml NS TID",
+      "Inj LOPEZ (1amp) slow IV BD and SOS",
+      "Inj ARP(40) 1 vial IV BD B/BF",
+      "Cap BEFILAC 4P 1 cap BD",
+      "Cap DEXORANGE 1 cap OBD morning",
+      "Syp HERBALS Plus (500ml) BD",
+      "THROMBOPHOBE. Gel 1ft HA",
+      "NICOGUM CHEWLET (2mg) BD"
+    ],
+    "doctors": [
+      {
+        "name": "",
+        "signature": "Reported by Sister"
+      }
+    ]
+  }
+}

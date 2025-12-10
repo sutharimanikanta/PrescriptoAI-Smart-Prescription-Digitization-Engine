@@ -1,0 +1,33 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: Sandesh Pradhan
+Age/Sex: 36 / M
+IPD No: 9862 - 9 92693
+UHID No: acdro 4105295
+Bed No: 10
+Department: W-1
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] Progress Note
+Doctor: Dr. Hiranmaya Mohanta
+Date/Time: 11/9/25
+Content: patient received from OPD to ward-1 m date → 11/9/25 : time → 12:00 PM D1 Mental & Behavioural Disorder due to use of Alcohol, Dependence syndrome currently taking the substance (F10.24 + F 19.2)
+Medications Prescribed:
+  • Inj THIAMINE (200) 100 mu NS TID
+  • Inj LOPEZ (1amp) slow IV TDS sos
+  • Inj PAN (40) 1 vial 2U OD B/BD
+  • TAB TAXIM- O(200) 1TAB BD
+
+PII DETECTED
+----------------------------------------------------------------------
+PATIENT_NAMES: Sandesh Pradhan
+DOCTOR_NAMES: Dr. Hiranmaya Mohanta, Dr. Prateek
+DATES: 11/9/25
+ID_NUMBERS: 9862 - 9 92693, acdro 4105295
+PHONE_NUMBERS: Mobile No: (not clear, possibly associated with Dr. Prateek or Dr. Hiranmaya Mohanta)

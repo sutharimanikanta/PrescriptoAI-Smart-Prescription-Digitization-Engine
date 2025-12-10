@@ -1,0 +1,60 @@
+{
+  "raw_text": "The document appears to be a medication chart with handwritten entries. The text is difficult to read due to the image quality and handwriting. However, I can make out some information.",
+  "cleaned_text": "The document appears to be a medication chart with handwritten entries. The text is difficult to read due to the image quality and handwriting. However, I can make out some information.",
+  "patient_info": {
+    "name": "",
+    "age": "",
+    "sex": "",
+    "ipd_no": "",
+    "uhid_no": "",
+    "bed_no": "",
+    "department": "",
+    "admission_date": ""
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "Dr. Akshay",
+      "date_time": "15/4/25",
+      "note_type": "Medication Chart",
+      "content": "The doctor has written medication orders for the patient.",
+      "medications": [
+        "Pantop 40 (1) OD",
+        "Naltima (1) OD",
+        "DNT's - LRK2 (2) BD",
+        "Lupis 10 (1) OD",
+        "Chewable (1) BD",
+        "Phosgel (1) TDS"
+      ],
+      "instructions": []
+    },
+    {
+      "doctor_name": "Dr. Nakesh",
+      "date_time": "15/4/25",
+      "note_type": "Medication Chart",
+      "content": "The doctor has written medication orders for the patient.",
+      "medications": [
+        "Chloram (1) TDS"
+      ],
+      "instructions": []
+    }
+  ],
+  "all_pii": {
+    "patient_names": [],
+    "doctor_names": [
+      "Dr. Akshay",
+      "Dr. Nakesh"
+    ],
+    "dates": [
+      "15/4/25"
+    ],
+    "id_numbers": [],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_14.jpg",
+    "processed_at": "2025-12-10T10:54:15.739352",
+    "total_notes": 2,
+    "total_pii_categories": 6
+  }
+}

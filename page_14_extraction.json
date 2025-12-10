@@ -1,0 +1,79 @@
+{
+  "raw_text": "Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n11/4/25 Dr. H.M\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n11/4/25 Dr. H.M\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n15.4.25 Dr. Rakesh\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n16.4.25 Dr. A. Mahapatra\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n11/4/25 Dr. S. Dash\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n15/4/25 Dr. S. Dash\nDrug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature\n16.4.25 Dr. S. Dash",
+  "pii_entities": [
+    {
+      "type": "DOCTOR_NAME",
+      "value": "Dr. H.M",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "Dr. Rakesh",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "Dr. A. Mahapatra",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "Dr. S. Dash",
+      "confidence": "high"
+    },
+    {
+      "type": "DATE",
+      "value": "11/4/25",
+      "confidence": "high"
+    },
+    {
+      "type": "DATE",
+      "value": "15.4.25",
+      "confidence": "high"
+    },
+    {
+      "type": "DATE",
+      "value": "16.4.25",
+      "confidence": "high"
+    }
+  ],
+  "structured_data": {
+    "patient_info": {
+      "name": "",
+      "age": "",
+      "sex": "",
+      "ipd_no": "",
+      "uhid_no": "",
+      "bed_no": ""
+    },
+    "hospital_info": {
+      "name": "",
+      "department": ""
+    },
+    "dates": [
+      "11/4/25",
+      "15.4.25",
+      "16.4.25"
+    ],
+    "medications": [
+      "TNT-PAN",
+      "TAB-TAXIM",
+      "THROMBOPHON GEL",
+      "NTOGUM CHEWLET",
+      "SYP-HEPALIN PLUS",
+      "INJ-LOPEZ",
+      "CAP-BIFILAC",
+      "CAP-DEXORAB",
+      "NECONUM CHEWET",
+      "INJ-LOPEZ",
+      "TAB-PAN",
+      "TAB-NALTIMA"
+    ],
+    "doctors": [
+      "Dr. H.M",
+      "Dr. Rakesh",
+      "Dr. A. Mahapatra",
+      "Dr. S. Dash"
+    ]
+  }
+}

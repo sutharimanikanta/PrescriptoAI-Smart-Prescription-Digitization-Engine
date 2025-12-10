@@ -1,0 +1,43 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: Santosh Pradhan
+Age/Sex: 36 / M
+IPD No: 8186-Q 93893
+UHID No: acuro 8110195
+Bed No: 10
+Department: W-1
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] Progress Note
+Doctor: Dr. Pruthia
+Date/Time: 11/9/24 3:30 PM
+Content: PLAN OF CARE
+Medications Prescribed:
+  • Inj THIAMINE (200) 100 ml NS TID
+  • Inj LOPEZ (1amp) slow IV TDS as - q sos
+  • Inj PAN (40) 1 vial IV BD
+  • TAL. TAXIM-O (200) 1 tab BD
+
+
+[Note 2] Progress Note
+Doctor: Dr. Hiranmaya Mohanta
+Date/Time: 11/9/25 12:00 PM
+Content: MENTAL & BEHAVIOURAL DISORDER DUE TO USE OF ALCOHOL. DEPENDENCE SYNDROME CURRENTLY TAKING THE SUBSTANCE (F10.24 + F13.2)
+Medications Prescribed:
+  • Inj THIAMINE (200) 100 ml NS TID
+  • Inj LOPEZ (1amp) slow IV TDS as - q sos
+  • Inj PAN (40) 1 vial IV BD
+  • TAL. TAXIM-O (200) 1 tab BD
+
+PII DETECTED
+----------------------------------------------------------------------
+PATIENT_NAMES: Santosh Pradhan
+DOCTOR_NAMES: Dr. Pruthia, Dr. Hiranmaya Mohanta
+DATES: 11/9/24, 11/9/25
+ID_NUMBERS: 8186-Q 93893, acuro 8110195

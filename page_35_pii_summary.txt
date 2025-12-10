@@ -1,0 +1,12 @@
+=== PII REDACTION SUMMARY ===
+
+[PATIENT_NAME] Santosh Peetham (Confidence: high)
+[AGE] 26 (Confidence: high)
+[SEX] M (Confidence: high)
+[IPD_NO] 4236927-33 (Confidence: high)
+[UHID_NO] 202504116195 (Confidence: high)
+[BED_NO] 10 (Confidence: high)
+[DATE] 16/04/25 (Confidence: high)
+[TIME] 8PM (Confidence: high)
+[DOCTOR_NAME]  (Confidence: low)
+[DEPARTMENT] Clinical Psychology (Confidence: high)

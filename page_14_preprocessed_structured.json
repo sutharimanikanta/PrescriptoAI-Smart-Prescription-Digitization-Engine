@@ -1,0 +1,59 @@
+{
+  "raw_text": "The provided image appears to be a medication chart or a patient's medical record, but the text is not clearly legible due to the image quality and handwritten nature of the content. However, I can attempt to extract some information based on common medical documentation structures.",
+  "cleaned_text": "The provided image appears to be a medication chart or a patients medical record, but the text is not clearly legible due to the image quality and handwritten nature of the content. However, I can attempt to extract some information based on common medical documentation structures.",
+  "patient_info": {
+    "name": "",
+    "age": "",
+    "sex": "",
+    "ipd_no": "",
+    "uhid_no": "",
+    "bed_no": "",
+    "department": "",
+    "admission_date": ""
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "Dr. Akshay",
+      "date_time": "",
+      "note_type": "",
+      "content": "",
+      "medications": [
+        "ALTIMA 40 ( possibly Pantoprazole 40 mg )",
+        "DNTK2 ( possibly Pantoprazole 40 mg )",
+        "LAWMAX ( possibly not clear )",
+        "N10 ( possibly not clear )",
+        "OLANZ ( possibly Olanzapine )",
+        "TH BMS O ( possibly not clear )"
+      ],
+      "instructions": []
+    },
+    {
+      "doctor_name": "Dr. Nakesh",
+      "date_time": "",
+      "note_type": "",
+      "content": "",
+      "medications": [
+        "CHLORZ 25 ( possibly Chlorthalidone 25 mg )",
+        "CLOPID ( possibly Clopidogrel )"
+      ],
+      "instructions": []
+    }
+  ],
+  "all_pii": {
+    "patient_names": [],
+    "doctor_names": [
+      "Dr. Akshay",
+      "Dr. Nakesh"
+    ],
+    "dates": [],
+    "id_numbers": [],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_14_preprocessed.jpg",
+    "processed_at": "2025-12-10T10:53:54.244826",
+    "total_notes": 2,
+    "total_pii_categories": 6
+  }
+}

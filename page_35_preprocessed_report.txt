@@ -1,0 +1,39 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: Kanhaiya
+Age/Sex: 25 / M
+IPD No: 253268
+UHID No: 855782
+Bed No: 12
+Department: Medicine
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] Progress Note
+Doctor: Dr. Rohit
+Date/Time: 30/11/22 10:00
+Content: Patient is experiencing back pain. Advised hydrotherapy and physiotherapy.
+Instructions:
+  • Continue with exercises
+
+
+[Note 2] Progress Note
+Doctor: Dr. Rohit
+Date/Time: 01/12/22 10:00
+Content: Patient is experiencing some relief. Continue with hydrotherapy and physiotherapy.
+Medications Prescribed:
+  • Paracetamol 500mg twice a day
+Instructions:
+  • Follow up after 1 week
+
+PII DETECTED
+----------------------------------------------------------------------
+PATIENT_NAMES: Kanhaiya
+DOCTOR_NAMES: Dr. Rohit
+DATES: 29/11/22, 30/11/22, 01/12/22
+ID_NUMBERS: 253268, 855782

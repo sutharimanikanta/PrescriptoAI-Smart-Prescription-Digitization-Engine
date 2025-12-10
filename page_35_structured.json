@@ -1,0 +1,48 @@
+{
+  "raw_text": "The provided document appears to be a medical record from SUM Hospital, with handwritten notes in blue ink. The document is divided into sections for patient information, progress notes, and treatment advice. The patient's name is not clearly legible, but the age is written as 26/F. The document includes a UHID number and IPD number. The progress notes section contains illegible handwriting, but it appears to discuss the patient's symptoms, diagnosis, and treatment plan. The treatment advice section lists several medications, including Cap Propranolol, Tab Risperidone, Tab Lorazepam, and Inj Thiopentone.",
+  "cleaned_text": "The provided document appears to be a medical record from SUM Hospital, with handwritten notes in blue ink. The document is divided into sections for patient information, progress notes, and treatment advice. The patients name is not clearly legible, but the age is written as 26/F. The document includes a UHID number and IPD number. The progress notes section contains illegible handwriting, but it appears to discuss the patients symptoms, diagnosis, and treatment plan. The treatment advice section lists several medications, including Cap Propranolol, Tab Risperidone, Tab Lorazepam, and Inj Thiopentone.",
+  "patient_info": {
+    "name": "",
+    "age": "26",
+    "sex": "F",
+    "ipd_no": "213653",
+    "uhid_no": "282974163R",
+    "bed_no": "",
+    "department": "",
+    "admission_date": ""
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "",
+      "date_time": "",
+      "note_type": "Progress Note",
+      "content": "The substance 'Deramax' is continued. Vitamins - 1 tab TDS. Cap Propranolol 1 cap BD. Tab Risperidone 1 tab BD. Inj Lorazepam (amp) 1 vial Lopez (amp) inj Thiopentone.",
+      "medications": [
+        "Cap Propranolol 1 cap BD",
+        "Tab Risperidone 1 tab BD",
+        "Inj Lorazepam (amp) 1 vial Lopez (amp) inj Thiopentone"
+      ],
+      "instructions": [
+        "Continue Deramax",
+        "Vitamins - 1 tab TDS"
+      ]
+    }
+  ],
+  "all_pii": {
+    "patient_names": [],
+    "doctor_names": [],
+    "dates": [],
+    "id_numbers": [
+      "213653",
+      "282974163R"
+    ],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_35.jpg",
+    "processed_at": "2025-12-10T10:53:32.225800",
+    "total_notes": 1,
+    "total_pii_categories": 6
+  }
+}

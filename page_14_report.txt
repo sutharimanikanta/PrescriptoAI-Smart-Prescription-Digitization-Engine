@@ -1,0 +1,40 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: 
+Age/Sex:  / 
+IPD No: 
+UHID No: 
+Bed No: 
+Department: 
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] Medication Chart
+Doctor: Dr. Akshay
+Date/Time: 15/4/25
+Content: The doctor has written medication orders for the patient.
+Medications Prescribed:
+  • Pantop 40 (1) OD
+  • Naltima (1) OD
+  • DNT's - LRK2 (2) BD
+  • Lupis 10 (1) OD
+  • Chewable (1) BD
+  • Phosgel (1) TDS
+
+
+[Note 2] Medication Chart
+Doctor: Dr. Nakesh
+Date/Time: 15/4/25
+Content: The doctor has written medication orders for the patient.
+Medications Prescribed:
+  • Chloram (1) TDS
+
+PII DETECTED
+----------------------------------------------------------------------
+DOCTOR_NAMES: Dr. Akshay, Dr. Nakesh
+DATES: 15/4/25

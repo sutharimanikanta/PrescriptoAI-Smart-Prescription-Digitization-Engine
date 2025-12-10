@@ -1,0 +1,63 @@
+{
+  "raw_text": "Patient Name: Kanhaiya\nAge: 25\nSex: M\nIPD No: 253268\nUHID No: 855782\nBed No: 12\nDepartment: Medicine\nAdmission Date: 29/11/22\n\nProgress Notes:\n\n1) Hydrotherapy - Back pain\n2) Physio - Back pain\n\nDr. Name: Dr. Rohit\nDate/Time: 30/11/22 10:00\nNote Type: Progress Note\nContent: Patient is experiencing back pain. Advised hydrotherapy and physiotherapy.\nMedications: Nil\nInstructions: Continue with exercises\n\nDr. Name: Dr. Rohit\nDate/Time: 01/12/22 10:00\nNote Type: Progress Note\nContent: Patient is experiencing some relief. Continue with hydrotherapy and physiotherapy.\nMedications: Paracetamol 500mg twice a day\nInstructions: Follow up after 1 week",
+  "cleaned_text": "Patient Name: Kanhaiya Age: 25 Sex: M IPD No: 253268 UHID No: 855782 Bed No: 12 Department: Medicine Admission Date: 29/11/22 Progress Notes: 1) Hydrotherapy - Back pain 2) Physio - Back pain Dr. Name: Dr. Rohit Date/Time: 30/11/22 10:00 Note Type: Progress Note Content: Patient is experiencing back pain. Advised hydrotherapy and physiotherapy. Medications: Nil Instructions: Continue with exercises Dr. Name: Dr. Rohit Date/Time: 01/12/22 10:00 Note Type: Progress Note Content: Patient is experiencing some relief. Continue with hydrotherapy and physiotherapy. Medications: Paracetamol 500mg twice a day Instructions: Follow up after 1 week",
+  "patient_info": {
+    "name": "Kanhaiya",
+    "age": "25",
+    "sex": "M",
+    "ipd_no": "253268",
+    "uhid_no": "855782",
+    "bed_no": "12",
+    "department": "Medicine",
+    "admission_date": "29/11/22"
+  },
+  "medical_notes": [
+    {
+      "doctor_name": "Dr. Rohit",
+      "date_time": "30/11/22 10:00",
+      "note_type": "Progress Note",
+      "content": "Patient is experiencing back pain. Advised hydrotherapy and physiotherapy.",
+      "medications": [],
+      "instructions": [
+        "Continue with exercises"
+      ]
+    },
+    {
+      "doctor_name": "Dr. Rohit",
+      "date_time": "01/12/22 10:00",
+      "note_type": "Progress Note",
+      "content": "Patient is experiencing some relief. Continue with hydrotherapy and physiotherapy.",
+      "medications": [
+        "Paracetamol 500mg twice a day"
+      ],
+      "instructions": [
+        "Follow up after 1 week"
+      ]
+    }
+  ],
+  "all_pii": {
+    "patient_names": [
+      "Kanhaiya"
+    ],
+    "doctor_names": [
+      "Dr. Rohit"
+    ],
+    "dates": [
+      "29/11/22",
+      "30/11/22",
+      "01/12/22"
+    ],
+    "id_numbers": [
+      "253268",
+      "855782"
+    ],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "metadata": {
+    "filename": "page_35_preprocessed.jpg",
+    "processed_at": "2025-12-10T10:54:50.266951",
+    "total_notes": 2,
+    "total_pii_categories": 6
+  }
+}

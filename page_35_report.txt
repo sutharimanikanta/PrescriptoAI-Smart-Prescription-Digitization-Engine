@@ -1,0 +1,31 @@
+======================================================================
+MEDICAL DOCUMENT EXTRACTION REPORT
+======================================================================
+
+PATIENT INFORMATION
+----------------------------------------------------------------------
+Name: 
+Age/Sex: 26 / F
+IPD No: 213653
+UHID No: 282974163R
+Bed No: 
+Department: 
+
+MEDICAL NOTES (DOCTOR-WISE)
+----------------------------------------------------------------------
+
+[Note 1] Progress Note
+Doctor: 
+Date/Time: 
+Content: The substance 'Deramax' is continued. Vitamins - 1 tab TDS. Cap Propranolol 1 cap BD. Tab Risperidone 1 tab BD. Inj Lorazepam (amp) 1 vial Lopez (amp) inj Thiopentone.
+Medications Prescribed:
+  • Cap Propranolol 1 cap BD
+  • Tab Risperidone 1 tab BD
+  • Inj Lorazepam (amp) 1 vial Lopez (amp) inj Thiopentone
+Instructions:
+  • Continue Deramax
+  • Vitamins - 1 tab TDS
+
+PII DETECTED
+----------------------------------------------------------------------
+ID_NUMBERS: 213653, 282974163R

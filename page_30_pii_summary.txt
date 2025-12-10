@@ -1,0 +1,14 @@
+=== PII REDACTION SUMMARY ===
+
+[PATIENT_NAME] Sandesh Pradhan (Confidence: high)
+[AGE] 36 (Confidence: high)
+[SEX] M (Confidence: high)
+[IPD_NO] 9862- 49333 (Confidence: high)
+[UHID_NO] acdru 410145 (Confidence: high)
+[DEPARTMENT] W-1 (Confidence: high)
+[BED_NO] 10 (Confidence: high)
+[DOCTOR_NAME] DR-ARUNAL (Confidence: high)
+[DOCTOR_NAME] DR. HIRAMMAYA MOHAPATRA (Confidence: high)
+[DATE] 11/9/24 (Confidence: high)
+[TIME] 3:00pm (Confidence: high)
+[PHONE_NUMBER] 94374 (Confidence: high)

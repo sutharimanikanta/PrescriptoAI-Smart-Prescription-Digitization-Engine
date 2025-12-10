@@ -1,0 +1,107 @@
+{
+  "raw_text": "PLAN OF CARE\n\nI. P. No. .............................\n→ CIWA -M\n→ mat .\n\nRestraints Y N Type Reason Investigation Advised\nCBC\nUFT\nLFT\nS.electrolytes\nIIH\nECG\nS.amylase /S. lipase\nGGT\nT3/T4 TSH\nPPBS /IFBS\n→ NCCT Brain\nUDS\n\nDiet Consistency Normal Soft Liquid Tube Feeds Fasting\nType: ( Normal ) Diabetic Low salt Other\n\nPreventive Care\n\nReferences\n\nResident Signature\nFull Name: DR-ARUNAL\nMobile No.:\nDate:\nTime:\n\nConsultant Signature\nFull Name /DR. HIRAMMAYA MOHAPATRA\nMobile No.: 94374\nDate:\nTime:\n\nINSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL\n(Faculty of Medical Sciences)\nSIKSHA 'O' ANUSANDHAN\n(DEEMED TO BE UNIVERSITY)\nK-8, Kalinga Nagar, Bhubaneswar\n\nPROGRESS REPORT\n\nPatient Name: Sandesh Pradhan\nAge: 36/ Sex: M\nIPD No: 9862- 49333 UHID No: acdru 410145 Dept: W-1 Bed No: 10\n\nDATE &TIME PROGRESS NOTES TREATMENT/ADVICE\n11/9/24 3:00pm patient received from OPD to ward-1\nD1 Mental and Behavioural Disorder due to use of Alcohol, Dependence syndrome currently taking the substance (F10.24+F 19.2)\n\nVitals\nBP →\nPR →\nRR →\nTcmp →\n\nR\n(i) Inj THIAMINE (200) in 100 ml NS TID\n(ii) Inj LOPEZ = (1amp) slow IV TDS sos\n(iii) Inj PAN(40) 1 vial IV OD B/B\n(iv) TAB TAXIM-O (200) 1 TAB BD",
+  "pii_entities": [
+    {
+      "type": "PATIENT_NAME",
+      "value": "Sandesh Pradhan",
+      "confidence": "high"
+    },
+    {
+      "type": "AGE",
+      "value": "36",
+      "confidence": "high"
+    },
+    {
+      "type": "SEX",
+      "value": "M",
+      "confidence": "high"
+    },
+    {
+      "type": "IPD_NO",
+      "value": "9862- 49333",
+      "confidence": "high"
+    },
+    {
+      "type": "UHID_NO",
+      "value": "acdru 410145",
+      "confidence": "high"
+    },
+    {
+      "type": "DEPARTMENT",
+      "value": "W-1",
+      "confidence": "high"
+    },
+    {
+      "type": "BED_NO",
+      "value": "10",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "DR-ARUNAL",
+      "confidence": "high"
+    },
+    {
+      "type": "DOCTOR_NAME",
+      "value": "DR. HIRAMMAYA MOHAPATRA",
+      "confidence": "high"
+    },
+    {
+      "type": "DATE",
+      "value": "11/9/24",
+      "confidence": "high"
+    },
+    {
+      "type": "TIME",
+      "value": "3:00pm",
+      "confidence": "high"
+    },
+    {
+      "type": "PHONE_NUMBER",
+      "value": "94374",
+      "confidence": "high"
+    }
+  ],
+  "structured_data": {
+    "patient_info": {
+      "name": "Sandesh Pradhan",
+      "age": "36",
+      "sex": "M",
+      "ipd_no": "9862- 49333",
+      "uhid_no": "acdru 410145",
+      "bed_no": "10"
+    },
+    "hospital_info": {
+      "name": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+      "department": "W-1"
+    },
+    "dates": [
+      {
+        "date": "11/9/24",
+        "time": "3:00pm"
+      }
+    ],
+    "medications": [
+      {
+        "medication": "Inj THIAMINE (200) in 100 ml NS TID"
+      },
+      {
+        "medication": "Inj LOPEZ = (1amp) slow IV TDS sos"
+      },
+      {
+        "medication": "Inj PAN(40) 1 vial IV OD B/B"
+      },
+      {
+        "medication": "TAB TAXIM-O (200) 1 TAB BD"
+      }
+    ],
+    "doctors": [
+      {
+        "name": "DR-ARUNAL"
+      },
+      {
+        "name": "DR. HIRAMMAYA MOHAPATRA"
+      }
+    ]
+  }
+}

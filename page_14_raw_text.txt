@@ -1,0 +1,14 @@
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+11/4/25 Dr. H.M
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+11/4/25 Dr. H.M
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+15.4.25 Dr. Rakesh
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+16.4.25 Dr. A. Mahapatra
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+11/4/25 Dr. S. Dash
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+15/4/25 Dr. S. Dash
+Drug (Approved Name) | Dose | Route | Other Direction | Date & Time | Signature
+16.4.25 Dr. S. Dash
