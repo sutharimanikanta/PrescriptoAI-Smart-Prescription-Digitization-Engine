@@ -1,5 +1,16 @@
 # Medical Prescription OCR Pipeline - Development Journey
-for testing the solution for bench mark you can directly go for this collab file and just follow the steps mentioned in file https://colab.research.google.com/drive/1ipstZ7gsN9Yx2g_8XWtU-ugOolHl6a7-?usp=sharing
+## How to Test the Benchmark Version
+
+To test the final benchmarked solution, simply open the Colab notebook below and follow the steps inside:
+
+🔗 Colab Benchmark Notebook
+https://colab.research.google.com/drive/1ipstZ7gsN9Yx2g_8XWtU-ugOolHl6a7-?usp=sharing
+
+If you want to explore the earlier methodologies and experiments, you can review the Kaggle notebooks here:
+
+1️⃣ https://www.kaggle.com/code/sutharimanikanta/notebookc4b951d0f3
+
+2️⃣ https://www.kaggle.com/code/sutharimanikanta/notebookd701bd0fcb
 # Why My Solution Is Better
 My pipeline uses a Transformer-based handwriting OCR, delivering much higher accuracy than traditional OCR tools.
 It outputs structured JSON results, not just plain text.
