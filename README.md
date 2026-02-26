@@ -59,7 +59,7 @@ HTR models are specifically designed for handwriting recognition, unlike general
 
 **Results:**
 - **Word Accuracy: 75-90%** (dataset dependent)
-- Good for general handwriting but struggled with medical terminology
+- Good for general handwriting but struggled with medical 
 
 **Critical Limitations:**
 ❌ Required 10k+ handwritten images for adequate training  
